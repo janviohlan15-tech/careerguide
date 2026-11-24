@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: multiverse-career-guide
+    runtime: static
+    staticPublishPath: .
